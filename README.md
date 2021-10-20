@@ -1,11 +1,8 @@
 ### Hi there 👋
 #### I'm Bruno Kwemoi Saekwo a passionate upcoming software engineer
 ![image](https://camo.githubusercontent.com/2f94e35fdb16395944c391344883245d04fd193355ea2456592c45455a225b2b/68747470733a2f2f692e6962622e636f2f7a47544e5866322f657a6769662d372d6133336233383065646238342e676966)
-<!--
-**bruno-kwemoi/bruno-kwemoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+### About me:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
