@@ -11,4 +11,4 @@
 - ⚡ Fun fact: Did you know that the first computer bug was an actual bug? In 1947, when he Harvard Mark II computer was malfunctioning, technicians discovered that a moth had gotten trapped in one of the relays, causing the system failure. They taped the moth to the computer's logbook and noted it as the 'first actual case of a bug being found.' Thus, the term 'debugging' was born!
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-kwemoi)](https://github.com/bruno-kwemoi/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-kwemoi&theme=nightowl)](https://github.com/bruno-kwemoi/github-readme-stats)
