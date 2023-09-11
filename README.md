@@ -1,6 +1,6 @@
 # Hello there 👋
 ## About:
-### I'm Bruno Kwemoi Saekwo,<br> - a passionate upcoming software engineer. <br> - I'm determined to create a better world through software engineering by building awesome projects. Check me out:point_down:
+### I'm Bruno Kwemoi Saekwo,<br> - a passionate software engineer. <br> - I'm determined to create a better world through software engineering by building awesome projects. Check me out:point_down:
 ![image](https://camo.githubusercontent.com/2f94e35fdb16395944c391344883245d04fd193355ea2456592c45455a225b2b/68747470733a2f2f692e6962622e636f2f7a47544e5866322f657a6769662d372d6133336233383065646238342e676966)
 - 🔭 I’m currently working on my [personal portfolio](https://brunokwemoi.netlify.app/)
 - 🌱 I’m currently learning React
