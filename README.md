@@ -1,6 +1,6 @@
 # Hello there 👋
 ## About:
-### I'm Bruno Kwemoi Saekwo,<br>- I'm determined to create a better world through software engineering by building awesome projects. Check me out: #👇
+### I'm Bruno Kwemoi Saekwo,<br>- I'm determined to create a better world through software engineering by building awesome projects. Check me out: **👇**
 ![git](https://github.com/user-attachments/assets/9e17d5b1-8c8d-436c-89cb-ea5e86e9fa92)
 
 - 🔭 I’m currently working on my [personal portfolio](https://brunokwemoi.netlify.app/)
